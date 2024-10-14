@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/subhashish-clg/semver-prototype/compare/v1.0.0...v1.0.1) (2024-10-14)
+
+
+### Bug Fixes
+
+* Removed Github plugin for semantic-release ([84ad8f8](https://github.com/subhashish-clg/semver-prototype/commit/84ad8f8792eb5362759028a27da9ff4415e09ade))
+
 # 1.0.0 (2024-10-14)
 
 
