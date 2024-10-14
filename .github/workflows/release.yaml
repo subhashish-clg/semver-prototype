@@ -6,6 +6,9 @@ on:
       - main
       - dev-release
 
+permissions:
+  contents: write
+
 jobs:
   release:
     runs-on: ubuntu-latest
@@ -17,6 +20,7 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: "20.9.0" # Specify the desired Node.js version
+
       - name: Install dependencies
         run: yarn install --frozen-lockfile
 
