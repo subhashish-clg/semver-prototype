@@ -1,4 +1,19 @@
-## [1.0.2](https://github.com/subhashish-clg/semver-prototype/compare/v1.0.1...v1.0.2) (2024-10-14)
+# [1.1.0-dev-release.1](https://github.com/subhashish-clg/semver-prototype/compare/v1.0.2-dev-release.2...v1.1.0-dev-release.1) (2024-10-14)
+
+
+### Features
+
+* Add todos module ([15d0a53](https://github.com/subhashish-clg/semver-prototype/commit/15d0a5373938553bd1216745a3c5863336ba7cf4))
+* **todos:** Add todo model ([d27ae19](https://github.com/subhashish-clg/semver-prototype/commit/d27ae1957c70a2d12b39cc9eeb3a01ea8e3d3327))
+
+## [1.0.2-dev-release.2](https://github.com/subhashish-clg/semver-prototype/compare/v1.0.2-dev-release.1...v1.0.2-dev-release.2) (2024-10-14)
+
+
+### Reverts
+
+* Revert "Feature/todos ([#3](https://github.com/subhashish-clg/semver-prototype/issues/3))" ([#4](https://github.com/subhashish-clg/semver-prototype/issues/4)) ([93f4ab7](https://github.com/subhashish-clg/semver-prototype/commit/93f4ab7f6152b37e9b4f7fdfebe440db207bb86a))
+
+## [1.0.2-dev-release.1](https://github.com/subhashish-clg/semver-prototype/compare/v1.0.1...v1.0.2-dev-release.1) (2024-10-14)
 
 
 ### Reverts
