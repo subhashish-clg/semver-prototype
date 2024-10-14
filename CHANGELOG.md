@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/subhashish-clg/semver-prototype/compare/v1.0.1...v1.0.2) (2024-10-14)
+
+
+### Reverts
+
+* Revert "Feature/todos ([#1](https://github.com/subhashish-clg/semver-prototype/issues/1))" ([#2](https://github.com/subhashish-clg/semver-prototype/issues/2)) ([068e160](https://github.com/subhashish-clg/semver-prototype/commit/068e16015188c94030b5c6ecfb53e515aec8391e))
+
 ## [1.0.1](https://github.com/subhashish-clg/semver-prototype/compare/v1.0.0...v1.0.1) (2024-10-14)
 
 
