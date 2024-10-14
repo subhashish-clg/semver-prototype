@@ -1,9 +1,9 @@
-name: Development Release
+name: Production Release
 
 on:
   push:
     branches:
-      - dev-release
+      - main
 
 permissions:
   contents: write
@@ -24,6 +24,6 @@ jobs:
         run: yarn install --frozen-lockfile
 
       - name: Run Semantic Release
-        run: npx semantic-release --pre-release
+        run: npx semantic-release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
